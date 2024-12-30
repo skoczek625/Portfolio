@@ -33,7 +33,8 @@ Witaj w moim repozytorium Portfolio! Znajdziesz tutaj zbiór materiałów, przyk
 
 🚀 Cele Repozytorium
 
-    Prezentacja umiejętności z zakresu analizy danych i narzędzi BI
-    Dokumentacja osiągnięć oraz certyfikatów
+1. Prezentacja umiejętności z zakresu analizy danych i narzędzi BI
+
+2. Dokumentacja osiągnięć oraz certyfikatów
 
 Dziękuję za odwiedzenie mojego repozytorium! 🚀
