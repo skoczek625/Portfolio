@@ -6,35 +6,35 @@ Witaj w moim repozytorium Portfolio! Znajdziesz tutaj zbiór materiałów, przyk
 1. Certyfikaty
 
     Zbiór certyfikatów potwierdzających umiejętności techniczne, głównie w zakresie Excela. Wśród tematów znajdują się:
-        Najczęstsze błędy w Excelu
-        Niezbędne funkcje Excela
-        Techniki wizualizacji danych
-        Automatyzacja z wykorzystaniem VBA
+        najczęstsze błędy w Excelu,
+        niezbędne funkcje Excela,
+        techniki wizualizacji danych,
+        automatyzacja z wykorzystaniem VBA.
 
-2. Excel/WiseOwl
+3. Excel/WiseOwl
 
     Rozbudowana kolekcja plików i przykładów obejmujących różnorodne aspekty pracy w Excelu:
-        Zaawansowane formuły
-        Tabele przestawne
-        Wykresy i wizualizacje danych
-        Formatowanie warunkowe
-        Funkcje wyszukiwania
+        zaawansowane formuły,
+        tabele przestawne,
+        wykresy i wizualizacje danych,
+        formatowanie warunkowe,
+        funkcje wyszukiwania.
 
-3. Power BI
+4. Power BI
 
     Zawiera projekty raportów w Power BI prezentujące analizę danych i ich wizualizację.
 
-4. SQL
+5. SQL
 
     Skrypty SQL dotyczące analizy danych, raportowania i manipulacji bazami danych.
-        Agregacje
-        Łączenie tabel
-        Funkcje okienkowe
+        agregacje,
+        łączenie tabel,
+        funkcje okienkowe.
 
 🚀 Cele Repozytorium
 
-1. Prezentacja umiejętności z zakresu analizy danych i narzędzi BI
+a. Prezentacja umiejętności z zakresu analizy danych i narzędzi BI
 
-2. Dokumentacja osiągnięć oraz certyfikatów
+b. Dokumentacja osiągnięć oraz certyfikatów
 
 Dziękuję za odwiedzenie mojego repozytorium! 🚀
